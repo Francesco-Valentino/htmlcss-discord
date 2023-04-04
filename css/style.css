@@ -48,12 +48,12 @@ body{
 }
 
 header{
-    background-color: #acd7e5;
     /* padding-bottom: 5px; */
 }
 
 header section.upper{
     height: 80px;
+    background-color: #3161E0;
 }
 
 section.upper{
