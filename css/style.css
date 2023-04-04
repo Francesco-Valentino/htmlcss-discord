@@ -71,6 +71,15 @@ section.upper>div{
     width: 100px;
 }
 
+.button{
+    background-color: white;
+    border-color: white solid 1px;
+    border-radius: 15px;
+    font-size: .8rem;
+    line-height: 2rem;
+    font-weight: 600;
+}
+
 section.upper nav {
     width: 60%;
 }
@@ -89,7 +98,8 @@ section.upper nav ul li{
 }
 
 section.upper div.login{
-    text-align: right;
+    text-align: center;
+    width: 100px;
 }
 
 header section.jumbotron{
