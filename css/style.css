@@ -114,7 +114,7 @@ header section.jumbotron{
 }
 
 section.jumbotron .hero{
-    background-color: #ed81ed;
+    /*background-color: #ed81ed;*/
     height: 400px;
     width: 75%;
 }
