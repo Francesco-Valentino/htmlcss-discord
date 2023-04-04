@@ -76,13 +76,16 @@ section.upper nav {
 }
 
 section.upper nav ul{
+    font-size: .9rem;
+    font-weight: 700;
+    color: white;
     list-style-type: none;
     padding: .5rem 1rem;
     justify-content: center;
 }
 
 section.upper nav ul li{
-    margin-right: .5rem;
+    margin-right: 3rem;
 }
 
 section.upper div.login{
