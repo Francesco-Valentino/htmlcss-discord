@@ -87,6 +87,8 @@ section.upper div.login{
 
 header section.jumbotron{
     background-image: url("../img/jumbo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     /* height: 550px; */
     padding: 4rem 0;
 }
