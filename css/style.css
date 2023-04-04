@@ -39,7 +39,7 @@
 }
 
 .background-pastel-pink{
-    background-color: #feb5c0;
+    /*background-color: #feb5c0;*/
 }
 
 body{
@@ -95,6 +95,11 @@ section.upper>div{
 
 .white-button.big-button{
     margin-right: 2rem;
+}
+
+.button.blue-button{
+    text-align: center;
+    width: 10%;
 }
 
 .grey-button{
@@ -215,6 +220,7 @@ main section div.big-column{
     background-repeat: no-repeat;
     background-size: contain;
     width: 50%;
+    line-height: 3rem;
 }
 
 footer{
@@ -224,7 +230,8 @@ footer{
 }
 
 footer section.footer-top{
-    height: 700px;
+    padding-top: 2.5rem;
+    /*height: 700px;*/
 }
 
 footer div.main-column{
@@ -271,19 +278,23 @@ footer div.secondary-column{
 }
 
 footer ul{
-    
+    color: white;
+    list-style-type: none;
+    line-height: 2rem;
+    font-size: 0.9rem;
 }
 
 footer section.footer-bottom{
-    background-color: #7ffed3;
+    /*background-color: #7ffed3;*/
     align-items: center;
     justify-content: space-between;
-    padding: 1rem 0;
+    padding-top: 1rem;
+    padding-bottom: 4rem;
 }
 
 hr{
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin: 2rem 2rem auto;
+    color: #6B8FF4;
 }
 
 footer section .logo-wrapper,
