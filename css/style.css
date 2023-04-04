@@ -49,11 +49,11 @@ body{
 
 header{
     /* padding-bottom: 5px; */
+        background-color: #3161E0;
 }
 
 header section.upper{
     height: 80px;
-    background-color: #3161E0;
 }
 
 section.upper{
