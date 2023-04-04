@@ -78,9 +78,22 @@ section.upper>div{
     font-weight: 600;
 }
 
+.big-button{
+    border-radius: 15px;
+    font-size: 1.5rem;
+    line-heigth: 2rem;
+    font-weigth: 700;
+}
+
 .white-button{
     background-color: white;
     border-color: white solid 1px;
+}
+
+.grey-button{
+    background-color: #23272A;
+    border-color: #23272A;
+    color: white
 }
 
 section.upper nav {
@@ -118,6 +131,19 @@ section.jumbotron .hero{
     color: white;
     height: 400px;
     width: 75%;
+    text-align: center;
+    font-weight: 700;
+}
+
+div.hero>h1{
+    font-size: 3.5rem;
+    margin-top: 1rem;
+    margin-bottom: 2.5rem;
+}
+
+div.hero>p{
+    line-height: 2rem;
+    padding: 0 100px;
 }
 
 main>section{
