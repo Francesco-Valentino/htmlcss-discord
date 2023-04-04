@@ -103,6 +103,14 @@ section.upper>div{
     color: white
 }
 
+.blue-button{
+    color: white;
+    background-color: #6B8FF4;
+    border-color: #6B8FF4;
+    width: 20%;
+
+}
+
 section.upper nav {
     width: 60%;
 }
@@ -212,6 +220,7 @@ main section div.big-column{
 footer{
     background-color: #23272a;
     padding-top: 1rem;
+    font-weight: 700;
 }
 
 footer section.footer-top{
@@ -219,17 +228,50 @@ footer section.footer-top{
 }
 
 footer div.main-column{
-    background-color: #ef7f7f;
-    width: 30%;
+    /*background-color: #ef7f7f;*/
+    width: 25%;
 }
 
-footer div.footer-columns{
+.language>img{
+    width: 20px;
+    height: 15px;
+}
+
+.language>p{
+    padding-left: .3rem;
+    margin-bottom: 1rem;
+}
+
+.language{
+    font-size: 0.8rem;
+    color: white;
+}
+
+.logos{
+    justify-content: space-between;
     width: 70%;
 }
 
+.logos>img{
+    width: 20px;
+    padding-right: 2px;
+}
+
+footer div.footer-columns{
+    width: 75%;
+}
+
 footer div.secondary-column{
-    background-color: #20b1a9;
+    /*background-color: #20b1a9;*/
     width: calc(100% / 4);
+}
+
+.f-blue-text{
+    color: #6B8FF4;
+}
+
+footer ul{
+    
 }
 
 footer section.footer-bottom{
@@ -251,4 +293,9 @@ footer section .button-wrapper{
 
 #huge-container{
     flex-direction: column;
+}
+
+#big-footer-text{
+    font-size: 2rem;
+    padding-bottom: 1.5rem;
 }
