@@ -67,6 +67,10 @@ section.upper>div{
     padding: .5rem 1rem;
 }
 
+.discord-logo{
+    width: 150px;
+}
+
 section.upper nav {
     width: 60%;
 }
