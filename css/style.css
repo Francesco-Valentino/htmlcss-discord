@@ -198,6 +198,17 @@ main section div.big-column{
     line-height: 1.5rem;
 }
 
+.special-text{
+    display: inline-block;
+    color: #23272A;
+    font-weight: 600;
+    font-size: 2rem;
+    background-image: url("../img/stars.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 50%;
+}
+
 footer{
     background-color: #23272a;
     padding-top: 1rem;
