@@ -72,12 +72,15 @@ section.upper>div{
 }
 
 .button{
-    background-color: white;
-    border-color: white solid 1px;
     border-radius: 15px;
     font-size: .8rem;
     line-height: 2rem;
     font-weight: 600;
+}
+
+.white-button{
+    background-color: white;
+    border-color: white solid 1px;
 }
 
 section.upper nav {
